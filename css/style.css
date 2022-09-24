@@ -15,3 +15,27 @@
 #img-caption {
   margin: 15px 0 5px 0;
 }
+
+li {
+  margin: 16px 0;
+}
+
+blockquote {
+  font-style: italic;
+  max-width: 545px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
+#headline {
+  margin: 50px 0;
+  text-align: center;
+}
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+h3 {
+  text-align: center;
+}
